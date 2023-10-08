@@ -65,4 +65,4 @@ Scope of Improvement
 - Add authentication for accounts
 - Add mutex lock for read/write to DB variables
 - Add validation of request
-- 
+- Move expiration timeout and alphavantage details to config 
